@@ -1,2 +1,0 @@
-# AnnouncementSystem
-Global Announcement System
